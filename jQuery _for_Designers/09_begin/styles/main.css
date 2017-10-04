@@ -1,0 +1,70 @@
+body {
+  background-color: #191919;
+  color: white;
+  padding: 60px;
+}
+
+h1 {
+  font-weight: normal;
+  margin-bottom: 30px;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: #83ac69;
+  margin-top: 40px;
+}
+
+/*------------ Table styles ---------*/
+
+table {
+  max-width: 600px;
+  margin-top: 60px;
+}
+
+  table a {
+    color: #588ab4;
+  }
+
+    table a:visited {
+      color: #0249ac;
+    }
+
+    table a:hover {
+      color: #9accf5;
+    }
+
+caption {
+  font-size: 1.4em;
+  margin-bottom: 20px;
+}
+
+td {
+  padding: 10px;
+  background-color: #242424;
+}
+
+/*------------ Color Guides ---------*/
+
+.traversal td:first-of-type, .traversal span {
+  color: #ff8000;
+}
+.misc td:first-of-type, .misc span {
+  color: #83ac69;
+}
+.filtering td:first-of-type, .filtering span {
+  color: #de84ff;
+}
+.numbers {
+  margin: 40px 0 0 0;
+  background-color: #262525;
+  padding: 15px;
+}
+.numbers li {
+  margin: 10px 0 0 0;
+  list-style: none;
+}
+
+
+

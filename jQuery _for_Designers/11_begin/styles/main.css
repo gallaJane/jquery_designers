@@ -1,0 +1,55 @@
+body {
+  background-color: #191919;
+  color: white;
+  padding: 60px;
+}
+
+h1 {
+  font-weight: normal;
+  margin-bottom: 30px;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: #83ac69;
+  margin-top: 40px;
+  position: relative;
+}
+
+/*------------ Table styles ---------*/
+
+table {
+  max-width: 600px;
+  margin-top: 60px;
+}
+
+  table a {
+    color: #588ab4;
+  }
+
+    table a:visited {
+      color: #0249ac;
+    }
+
+    table a:hover {
+      color: #9accf5;
+    }
+
+caption {
+  font-size: 1.4em;
+  margin-bottom: 20px;
+}
+
+td {
+  padding: 10px;
+  background-color: #242424;
+}
+
+/*------------ Color Guides ---------*/
+
+.custom td:first-of-type, .custom span {
+  color: #ff8000;
+}
+
+

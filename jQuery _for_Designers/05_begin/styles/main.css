@@ -1,0 +1,14 @@
+body {
+  background-color: #191919;
+  color: white;
+  padding: 60px;
+}
+
+h1 {
+  font-weight: normal;
+  margin-bottom: 30px;
+}
+
+em {
+  color: #ff7600;
+}
